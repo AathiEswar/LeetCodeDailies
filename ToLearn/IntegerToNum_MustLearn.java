@@ -1,4 +1,4 @@
-package LeetCodeDaily;
+package LeetCodeDaily.ToLearn;
 
 public class IntegerToNum_MustLearn {
     class Solution {
