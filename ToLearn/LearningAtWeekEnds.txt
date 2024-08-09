@@ -1,4 +1,5 @@
 Aug week 1 :
     Spiral Matrix - 1,2,3
     Integer to Num
+    Magic Squares in Grid
     All the other leetcode dailies of the week
