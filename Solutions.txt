@@ -1,0 +1,7 @@
+4-1-2025 :
+    3 Letter String Palindrome :
+        use low and high array to get the lowest and highest index occurence of letters , iterate and count the unique
+            letters inside the range with hashset or visited and update count
+5-1-2025 :
+    Shifting Letter 2 :
+        use prefix and line sweep algorithm to have a precomputed array of offsets and use it to modify each letter
