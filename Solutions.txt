@@ -5,3 +5,8 @@
 5-1-2025 :
     Shifting Letter 2 :
         use prefix and line sweep algorithm to have a precomputed array of offsets and use it to modify each letter
+
+6-1-2025 :
+    Min Operations To Move Ball :
+        use prefix and suffix to precompute the no of moves and no of ones required on that index
+        and add both to the index i of re
