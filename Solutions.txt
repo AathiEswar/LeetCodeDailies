@@ -9,4 +9,8 @@
 6-1-2025 :
     Min Operations To Move Ball :
         use prefix and suffix to precompute the no of moves and no of ones required on that index
-        and add both to the index i of re
+        and add both to the index i of res
+
+7-1-2025 :
+    String Matching in array :
+        sort array and iterate through each element to find if it contains on any other strings and add to res
